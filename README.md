@@ -1,0 +1,1 @@
+This is a MERN stack application template. It includes authentication, authorization, and basic CRUD operations. It is a good starting point for any MERN stack application that requires user authentication and authorization.
